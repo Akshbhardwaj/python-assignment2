@@ -1,3 +1,3 @@
-# python-assignment1
+# python-assignment2
 Aksh Bhardwaj
 Second assignment
